@@ -9,3 +9,5 @@ I had a lot of trouble understanding the brief for Question 1 and couldn't reall
 I found today's work pretty fun and I learned a lot more about what can be done with tensors than I thought was possible.
 ## Day 5 Reflection
 It was really fun to see how to manually code neural networks, but I don't know for sure if the code for Question 7 worked because of the errors caused by the train() function.
+## Day 6 Reflection
+I struggled a lot with making the filters and I'm still not sure how to do the "shift" filter in Question 2.
