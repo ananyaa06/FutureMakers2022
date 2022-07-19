@@ -11,3 +11,7 @@ I found today's work pretty fun and I learned a lot more about what can be done 
 It was really fun to see how to manually code neural networks, but I don't know for sure if the code for Question 7 worked because of the errors caused by the train() function.
 ## Day 6 Reflection
 I struggled a lot with making the filters and I'm still not sure how to do the "shift" filter in Question 2.
+## Day 7 Reflection
+The game provided me with a new and interactive way of learning about algorithmic bias.
+## Day 8 Reflection
+I found the questions fun and learned more about CNNs and image classification, but I struggled a bit with the visualizing layers part. 
